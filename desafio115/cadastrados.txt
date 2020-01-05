@@ -1,0 +1,5 @@
+Vitor;17
+Milton;42
+Enaldinho;14
+Rosinete;60
+Julio;10
